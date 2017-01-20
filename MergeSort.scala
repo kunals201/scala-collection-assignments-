@@ -1,3 +1,8 @@
+/**
+* Implementing MergeSort using List
+*/
+
+
 object MergeSort1 extends App
 {
 def mergeSort(lst: List[Int]): List[Int] = {
